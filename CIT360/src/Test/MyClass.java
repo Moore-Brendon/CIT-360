@@ -6,6 +6,7 @@ public class MyClass {
 	String mystring2;
 	int yournumber;
 	int yyournumber;
+	int yournumbers;
 	
 	
 }
